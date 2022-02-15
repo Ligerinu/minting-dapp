@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0xF07ff7b486421119799427aEf8Ac0a854f8201ab",
   "SCAN_LINK": "https://testnet.bscscan.com/token/0xf07ff7b486421119799427aef8ac0a854f8201ab",
   "NETWORK": {
-    "NAME": "Binance Smart Chain",
+    "NAME": "Binance Testnet",
     "SYMBOL": "BNB",
     "ID": 97
   },
