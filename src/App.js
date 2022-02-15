@@ -145,7 +145,7 @@ function App() {
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit Opensea.io to view it.`
+          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit app.ligerinutoken.com to view it.`
         );
         setClaimingNft(false);
         dispatch(fetchData(blockchain.account));
@@ -298,7 +298,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Excluding gas fees.
+                  Liger Inu FOUNDER NFT
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
