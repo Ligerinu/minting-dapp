@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x69982725ef44eD0bDcB40F106Eb9eF840832b2fE",
-  "SCAN_LINK": "https://bscscan.com/address/0x69982725ef44eD0bDcB40F106Eb9eF840832b2fE",
+  "CONTRACT_ADDRESS": "0xAc59AB481f71695651d468D29b1F8C3435772Ce8",
+  "SCAN_LINK": "https://bscscan.com/address/0xac59ab481f71695651d468d29b1f8c3435772ce8",
   "NETWORK": {
     "NAME": "Binance Smart Chain",
     "SYMBOL": "BNB",
@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 10000,
   "WEI_COST": 50000000000000000,
   "DISPLAY_COST": 0.05,
-  "GAS_LIMIT": 250000,
+  "GAS_LIMIT": 300000,
   "MARKETPLACE": "Marketplace",
   "MARKETPLACE_LINK": "https://app.ligerinutoken.com",
   "SHOW_BACKGROUND": true
